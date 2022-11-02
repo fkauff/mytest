@@ -5,7 +5,7 @@ import java.io.*;
 
 //was geändert
 //Änderungungen in github
-//neu
+//neu...
 
 public class Sudoku
 {
